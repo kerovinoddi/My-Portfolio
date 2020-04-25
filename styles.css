@@ -28,7 +28,7 @@
           position: fixed;
           top: 0;
           display: inline;
-          margin-left: 70%;
+          margin-left: 90%;
           }
           ul{
   
@@ -37,6 +37,7 @@
             overflow: hidden;
             background-color: rgb(7, 7, 7);
             position: relative;
+            display: inline;
             }
   
     
@@ -73,7 +74,7 @@
         
         ul li a {
           position: relative; 
-          display: block;
+          display: inline-block;
           width: 90px;
           height: 60px;
           text-align: center;
